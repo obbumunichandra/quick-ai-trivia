@@ -1,0 +1,6 @@
+{
+  "name": "Quick AI Trivia",
+  "description": "A fast-paced, AI-powered quiz game that generates fun and educational trivia questions on the spot! Choose your topic and let Google Gemini instantly create unique multiple-choice questions with answers and explanations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
